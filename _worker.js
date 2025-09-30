@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "obervpn";
+let APP_DOMAIN = "anky47.workers.dev";
 
 let prxIP = "";
 let cachedPrxList = [];
